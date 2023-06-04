@@ -53,7 +53,7 @@ ___
     tg_bot = TelegramBot("...")
     ```
 
-6. Run the main news parser also in the background
+6. Run the libra bot logic in the background
 
     ```python
     python __init.py__ &
