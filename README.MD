@@ -56,7 +56,7 @@ ___
 6. Run the main news parser also in the background
 
     ```python
-    python init.py &
+    python __init.py__ &
     ```
 
 7. In case of a problem, the program will stop automatically or you can stop execution using
